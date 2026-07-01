@@ -6,3 +6,4 @@
    Pillow
    PyMuPDF
    reportlab
+   textract
