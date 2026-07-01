@@ -11,4 +11,5 @@ Automated Resume Screening System with JD-Base ATS Scoring, OCR Support, Admin D
 - ATS Score + Ranking + PDF Report
 ## 🛠️ 📄 Tech Stack
 Python, Streamlit, PyMuPDF, Pandas, ReportLab, SQLite, Tesseract OCR
+
 📄 **Sample Output:** [Download ATS Report](ats_report%20(4).pdf)
